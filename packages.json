@@ -1,0 +1,22 @@
+[
+    {
+        "package": "tabnet",
+        "url": "https://github.com/mlverse/tabnet"
+    },
+    {
+        "package": "torchvision",
+        "url": "https://github.com/mlverse/torchvision"
+    },
+    {
+        "package": "torchvisionlib",
+        "url": "https://github.com/mlverse/torchvisionlib"
+    },
+    {
+        "package": "vespa",
+        "url": "https://github.com/cregouby/vespa"
+    },
+    {
+        "package": "TabICLv2",
+        "url": "https://github.com/cregouby/TabICLv2"
+    }
+]
