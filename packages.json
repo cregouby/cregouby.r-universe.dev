@@ -18,5 +18,10 @@
     {
         "package": "TabICLv2",
         "url": "https://github.com/cregouby/TabICLv2"
+    },
+    {
+        "package": "microinverterdata",
+        "url": "https://github.com/camembr/microinverterdata/issues"
     }
+    
 ]
